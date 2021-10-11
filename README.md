@@ -56,12 +56,16 @@
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/sql-logo.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/Rishabh062/blob/master/assest/react-logo.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/react-logo.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo.png"></code>
+
 
 
 
