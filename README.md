@@ -83,11 +83,10 @@
  ### **Some Frameworks And Platforms I Am Familier With**
 <br>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="70"  src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png"></code>
-<code><img height="70"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png"
-  </code>
-<code><img height="70"  src="https://miro.medium.com/max/776/1*Lad06lrjlU9UZgSTHUoyfA.png"></code>
-<code><img height="70"  src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png"></code>
+<code><img height="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="70"  src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"</code>
+<code><img height="70"  src="https://github.com/pushanverma/pushanverma/blob/main/assets/heroku-logo.png"></code>
+
 
 
 
