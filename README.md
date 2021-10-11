@@ -64,7 +64,7 @@
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/react-logo.svg"></code>
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo.png"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo1.jpg"></code>
 
 
 
