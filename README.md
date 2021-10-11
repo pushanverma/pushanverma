@@ -3,7 +3,7 @@
 
 ## Currently Doing BTech in Computer Science And Engineering and enjoying it. -->
 
-<img src="https://github.com/pushanverma/Rishabh062/blob/master/assest/welcomeBanner.png"/>
+<img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/>
 <hr/>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
