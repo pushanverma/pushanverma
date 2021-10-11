@@ -80,7 +80,7 @@
 
 <hr/>
 
- ### **Some Frameworks And Platforms I Am Familier With**
+ ### **Some Platforms I Am Familier With**
 <br>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
