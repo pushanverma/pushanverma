@@ -28,9 +28,7 @@
     <a href="https://portfoliopushanverma.herokuapp.com/">
          <img alt="" src="https://img.icons8.com/clouds/100/000000/link.png">
       </a>
-      <a href="https://portfoliopushanverma.herokuapp.com/">
-         <i class="fab fa-dev fa-3x"></i>
-      </a>
+      
   
 
 <br />
