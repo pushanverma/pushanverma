@@ -36,7 +36,7 @@
 
   <b><i>Where I write blogs, and share my knowledge</i></b>
   <br>
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img height="30" src="https://www.linkedin.com/in/pushan-verma-559260176/"/>][linkedin]
 [<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white"/>][Dev]
   <hr />
   
