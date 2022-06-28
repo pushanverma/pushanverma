@@ -51,7 +51,7 @@
 -  Fun fact about me I always ready to explore and collaborate. -->
 <hr />
 
- ### **Tools and Technology I Knows.**
+ ### **Tools and Technology I Know.**
 <br>
 <code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
