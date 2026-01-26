@@ -101,37 +101,6 @@
    
 </p>
 <h3>
-<!--  <details> -->
-<summary>📊 Github Stats</summary>
-<h3/>
-<p align="center">
-  <br>
- <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=pushanverma&theme=blue-green" />
-  <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushanverma&show_icons=true&theme=blue-green&line_height=21"/>
-    <br><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=pushanverma&theme=dracula" alt="Pushan's github trophy"/>
-  <br><br>
-
-
-<!-- </details> -->
-  <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=pushanverma&theme=redical">
-</p> 
-
-<br>
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
-<h3 align="center"> 
-  Visitor Count : 
-<img align ="center"  src="https://profile-counter.glitch.me/pushanverma/count.svg" />
-
-  </h3>
-  
-
-
 
 [Hashnode]: https://hashnode.com/@pushanverma
 [linkedin]: https://www.linkedin.com/in/pushanverma/
