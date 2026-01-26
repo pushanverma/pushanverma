@@ -1,7 +1,4 @@
-<!-- ## Hi everyone</h2>
-### I am [**Rishabh Dwivedi**](https://rishabh062.github.io/new_portfolio/)
 
-## Currently Doing BTech in Computer Science And Engineering and enjoying it. -->
 
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/>
 
@@ -52,10 +49,6 @@
 
 -  I'm interested in Full Stack Web development,coding and doing Open Source Contribution.
 -  I love playing outside ,travelling and listening songs.
-<!-- -  I like learning from communities.
--  You can ask me about Machine Learning,Web developments,Python,Competitive Programming.
--  Pronouns: Rishabh/He/Him
--  Fun fact about me I always ready to explore and collaborate. -->
 <hr />
 
  ### **Tools and Technology I Know.**
@@ -117,7 +110,7 @@
   <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pushanverma&show_icons=true&theme=blue-green&line_height=21"/>
     <br><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=pushanverma&theme=dracula" alt="Rishabh's github trophy"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pushanverma&theme=dracula" alt="Pushan's github trophy"/>
   <br><br>
 
 
@@ -139,12 +132,10 @@
   
 
 
-<!-- [twitter]: https://twitter.com/Rishabh07147212 -->
-<!-- [youtube]: https://www.youtube.com/results?search_query=talkwithrd -->
+
 [Hashnode]: https://hashnode.com/@pushanverma
-[linkedin]: https://www.linkedin.com/in/rishabh-dwivedi-28737b1a0
-[Facebook]: https://www.facebook.com/rishabh.dwivedi.5832343/
+[linkedin]: https://www.linkedin.com/in/pushanverma/
+[Twitter] : https://x.com/pushan_verma
 [Dev]: https://dev.to/pushanverma
-[Instagram]: https://www.instagram.com/pushan.verma/
 [Gmail]: pushanverma.99@gmail.com
-[Portfolio]: https://portfoliopushanverma.herokuapp.com/
+[Portfolio]: https://pushanverma.com/
