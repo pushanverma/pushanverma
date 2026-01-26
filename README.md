@@ -4,6 +4,13 @@
 ## Currently Doing BTech in Computer Science And Engineering and enjoying it. -->
 
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/>
+
+<video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 <hr/>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
