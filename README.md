@@ -1,10 +1,51 @@
 
 
-<!-- <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/> -->
+
+
+
+<!--Banner-->
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/banner.gif" alt ="Hello this is Pushan here !!">
 
 
+<!--About Me -->
 
+  
+<h2> 𝐇𝐞𝐥𝐥𝐨 World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+
+-  I'm a CS grad working in the field of AI and FullStack Development .
+-  Apart from Coding , I do cooking well and always promise myself to go for gym.
+<hr />
+
+
+<!--Tech Stack -->
+
+<br />
+<hr />
+
+
+ ### **Tools and Technology I Know.**
+<br>
+<code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/sql-logo.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/react-logo.svg"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
+<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo1.jpg"></code>
+
+<br/>
+
+
+<!--Currently Learning -->
+
+<!--Connect with Me -->
 <hr/>
 <p align="center">
   <b><i>Let's connect! </i></b>
@@ -23,65 +64,18 @@
          <img alt="portfolio" src="https://github.com/pushanverma/pushanverma/blob/main/assets/portfolio_logo.png">
       </a>
       
-  
 
-<br />
-<hr />
-
-  
-<h2> 𝐇𝐞𝐥𝐥𝐨 World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
--  I'm a CS grad working in the field of AI and FullStack Development .
--  Apart from Coding , I do cooking well and always promise myself to go for gym.
-<hr />
-
- ### **Tools and Technology I Know.**
-<br>
-<code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/sql-logo.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/react-logo.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo1.jpg"></code>
+<!--Coding Profiles -->
 
 
 
 
 
 
-<br/>
+<!--Project Highlights-->
 
 
 
-
-<!-- <code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code> -->
-
-<hr/>
-
- ### **Some Platforms I Am Familier With**
-<br>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70"  src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"</code>
-<code><img height="70"  src="https://github.com/pushanverma/pushanverma/blob/main/assets/heroku-logo.png"></code>
-
-
-
-
-
-<!-- <br>
-<br>
-<p align="center">
-  <br>
-<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushanverma&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> -->
   <br>
    
 </p> -->
