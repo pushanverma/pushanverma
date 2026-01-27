@@ -11,7 +11,7 @@
 
 <hr/>
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <b><i>Let's connect! </i></b>
       <br><br>
   
 
