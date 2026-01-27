@@ -34,17 +34,12 @@
 <br />
 <hr />
 
-  <b><i>Where I write blogs, and share my knowledge</i></b>
-  <br>
-
-[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white"/>][Dev]
-  <hr />
   
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
--  I'm interested in Full Stack Web development,coding and doing Open Source Contribution.
--  I love playing outside ,travelling and listening songs.
+-  I'm a CS grad working in the field of AI and FullStack Development .
+-  Apart from Coding , I do cooking well and always promise myself to go for gym.
 <hr />
 
  ### **Tools and Technology I Know.**
