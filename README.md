@@ -3,18 +3,12 @@
 <!-- <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/> -->
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/intro.gif" alt ="not found">
 
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
 
 <hr/>
 <p align="center">
   <b><i>Let's connect! </i></b>
       <br><br>
-  
-
 
   <a href="https://wa.me/9999456503">
          <img alt="whatsapp" src="https://github.com/pushanverma/pushanverma/blob/main/assets/whatsapp_logo.png">
