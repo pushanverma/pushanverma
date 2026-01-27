@@ -22,11 +22,11 @@
   <a href="https://www.linkedin.com/in/pushanverma/">
          <img alt="linkedin" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_logo.png">
       </a>
-      <a href="https://www.linkedin.com/in/pushan-verma-559260176/">
-         <img alt="linkedin" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_logo.png">
+      <a href="https://x.com/pushan_verma">
+         <img alt="twitter" src="https://github.com/pushanverma/pushanverma/blob/main/assets/twitter_logo.png">
       </a>
     <a href="https://pushanverma.com"
-         <img alt="Portfolio" src="https://img.icons8.com/clouds/100/000000/link.png">
+         <img alt="Portfolio" src="https://github.com/pushanverma/pushanverma/blob/main/assets/portfolio_logo.png">
       </a>
       
   
