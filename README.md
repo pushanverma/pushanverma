@@ -14,24 +14,19 @@
   <b><i>Let's connect! Find me on the web.</i></b>
       <br><br>
   
-<!--   whatsapp -->
+
 
   <a href="https://wa.me/9999456503">
-         <img alt="whatsapp" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_bnw.png">
+         <img alt="whatsapp" src="https://github.com/pushanverma/pushanverma/blob/main/assets/whatsapp_logo.png">
      </a>
-<!-- linkedin  -->
-  
-  <a href="https://www.linkedin.com/in/pushan-verma-559260176/">
+  <a href="https://www.linkedin.com/in/pushanverma/">
          <img alt="linkedin" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_logo.png">
       </a>
-    <a href="https://www.instagram.com/pushan.verma/">
-         <img alt="instagram" src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png">
+      <a href="https://www.linkedin.com/in/pushan-verma-559260176/">
+         <img alt="linkedin" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_logo.png">
       </a>
-   <a href="https://www.facebook.com/profile.php?id=100015279900016">
-         <img alt="facebook" src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png">
-      </a>  
-    <a href="https://portfoliopushanverma.herokuapp.com/">
-         <img alt="" src="https://img.icons8.com/clouds/100/000000/link.png">
+    <a href="https://pushanverma.com"
+         <img alt="Portfolio" src="https://img.icons8.com/clouds/100/000000/link.png">
       </a>
       
   
