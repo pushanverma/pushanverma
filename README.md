@@ -26,7 +26,7 @@
          <img alt="twitter" src="https://github.com/pushanverma/pushanverma/blob/main/assets/twitter_logo.png">
       </a>
     <a href="https://pushanverma.com"
-         <img alt="Portfolio" src="https://github.com/pushanverma/pushanverma/blob/main/assets/portfolio_logo.png">
+         <img alt="portfolio" src="https://github.com/pushanverma/pushanverma/blob/main/assets/portfolio_logo.png">
       </a>
       
   
