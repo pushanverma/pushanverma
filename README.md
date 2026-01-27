@@ -17,7 +17,7 @@
 <!--   whatsapp -->
 
   <a href="https://wa.me/9999456503">
-         <img alt="whatsapp" src="https://github.com/pushanverma/pushanverma/blob/main/assets/whatsapp_logo.png">
+         <img alt="whatsapp" src="https://github.com/pushanverma/pushanverma/blob/main/assets/linkedin_bnw.png">
      </a>
 <!-- linkedin  -->
   
