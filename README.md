@@ -92,19 +92,12 @@
 
 
 
-<br>
+<!-- <br>
 <br>
 <p align="center">
   <br>
 <!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushanverma&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> -->
   <br>
    
-</p>
-<h3>
+</p> -->
 
-[Hashnode]: https://hashnode.com/@pushanverma
-[linkedin]: https://www.linkedin.com/in/pushanverma/
-[Twitter] : https://x.com/pushan_verma
-[Dev]: https://dev.to/pushanverma
-[Gmail]: pushanverma.99@gmail.com
-[Portfolio]: https://pushanverma.com/
