@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/>
+<!-- <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/welcomeBanner.png"/> -->
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/intro.gif" alt ="not found">
 
 <video width="320" height="240" controls>
