@@ -13,19 +13,8 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 <!--Tech Stack -->
 <h2>Tech Stack</h2>
 <br>
-<code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/sql-logo.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/react-logo.svg"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
-<code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo1.jpg"></code>
+<img src="https://github.com/pushanverma/pushanverma/blob/main/assets/banner.gif" alt ="Hello this is Pushan here !!">
+
 <br/>
 
 
