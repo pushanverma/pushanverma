@@ -11,7 +11,7 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 <!--Tech Stack -->
 <h2>Tech Stack</h2>
 <br>
-<img src="https://github.com/pushanverma/pushanverma/blob/main/assets/tech_Stack_1.png" alt ="Hello this is Pushan here !!">
+<img src="https://github.com/pushanverma/pushanverma/blob/main/assets/tech_Stack_4.png" alt ="Hello this is Pushan here !!">
 
 <br/>
 
