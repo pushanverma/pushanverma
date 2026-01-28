@@ -31,7 +31,7 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 
 <!--Connect with Me -->
 <p align="center">
-  <b><i>Let's connect! </i></b>
+  <b>Let's connect! 🤝 </b>
       <br><br>
 
   <a href="https://wa.me/9999456503">
@@ -61,7 +61,7 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 
 
 
-  <br>
+
    
-</p> -->
+
 
