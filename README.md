@@ -1,33 +1,21 @@
-
-
-
-
-
 <!--Banner-->
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/banner.gif" alt ="Hello this is Pushan here !!">
+<br/>
 
 
 <!--About Me -->
-
-  
 <h2> 𝐇𝐞𝐥𝐥𝐨 World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p>
   Hi! I’m a CS graduate currently working in AI and Full-Stack Development.
 I love building things with code, exploring new tech, and learning something new every day. 🚀
 Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  or promising myself that I’ll finally go to the gym 💪😅
 </p>
-
-
-<hr />
-
-
-<!--Tech Stack -->
-
 <br />
 <hr />
 
+<!--Tech Stack -->
 
- ### **Tools and Technology I Know.**
+<h2>Tech Stack</h2>
 <br>
 <code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
