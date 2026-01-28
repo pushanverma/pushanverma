@@ -10,11 +10,12 @@
 <!--About Me -->
 
   
-<h2> 𝐇𝐞𝐥𝐥𝐨 World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
--  I'm a CS grad working in the field of AI and FullStack Development .
--  Apart from Coding , I do cooking well and always promise myself to go for gym.
+Hi! I’m a CS graduate currently working in AI and Full-Stack Development.
+I love building things with code, exploring new tech, and learning something new every day. 🚀
+Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  or promising myself that I’ll finally go to the gym 💪😅
 <hr />
 
 
@@ -39,7 +40,6 @@
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/node-logo.png"></code>
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/express-logo.png"></code>
 <code><img height="70" src="https://github.com/pushanverma/pushanverma/blob/main/assets/mongo-logo1.jpg"></code>
-
 <br/>
 
 
