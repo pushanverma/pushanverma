@@ -8,8 +8,6 @@
 I love building things with code, exploring new tech, and learning something new every day. 🚀
 Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  or promising myself that I’ll finally go to the gym 💪😅
 
-<br />
-
 <!--Tech Stack -->
 <h2>Tech Stack</h2>
 <br>
