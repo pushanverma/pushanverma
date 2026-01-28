@@ -11,7 +11,6 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 <br />
 
 <!--Tech Stack -->
-
 <h2>Tech Stack</h2>
 <br>
 <code><img height="70" src="https://cdn-blog.adafruit.com/uploads/2012/12/github-logo-transparent.jpg"></code>
