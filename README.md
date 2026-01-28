@@ -12,14 +12,24 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
 <h2>Tech Stack</h2>
 <br>
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/tech_Stack_4.png" alt ="Hello this is Pushan here !!">
-
 <br/>
 
 
 <!--Currently Learning -->
+<h2>Currently Learning & Exploring 🔎 </h2>
+<ul>
+  <li>Backend Development</li>
+  <li>Machine Learning</li>
+  <li>Automations using n8n</li>
+  <li>Advance Operating Systems</li>
+  <li>System Design</li>
+  <li>Cloud Infrastructure</li>
+</ul>
+
+ 
+
 
 <!--Connect with Me -->
-<hr/>
 <p align="center">
   <b><i>Let's connect! </i></b>
       <br><br>
@@ -39,6 +49,8 @@ Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  
       
 
 <!--Coding Profiles -->
+
+
 
 
 
