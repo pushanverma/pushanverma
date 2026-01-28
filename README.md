@@ -11,11 +11,13 @@
 
   
 <h2> 𝐇𝐞𝐥𝐥𝐨 World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
-Hi! I’m a CS graduate currently working in AI and Full-Stack Development.
+<p>
+  Hi! I’m a CS graduate currently working in AI and Full-Stack Development.
 I love building things with code, exploring new tech, and learning something new every day. 🚀
 Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  or promising myself that I’ll finally go to the gym 💪😅
+</p>
+
+
 <hr />
 
 
