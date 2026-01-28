@@ -1,7 +1,5 @@
 <!--Banner-->
 <img src="https://github.com/pushanverma/pushanverma/blob/main/assets/banner.gif" alt ="Hello this is Pushan here !!">
-<br/>
-
 
 <!--About Me -->
 <h2> 𝐇𝐞𝐥𝐥𝐨 World ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -11,7 +9,6 @@ I love building things with code, exploring new tech, and learning something new
 Outside of coding, you’ll either find me cooking 🍳 , watching movies 🎬  or promising myself that I’ll finally go to the gym 💪😅
 </p>
 <br />
-<hr />
 
 <!--Tech Stack -->
 
